@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Frijole');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+.banner {
+  min-height:600px;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/f/f8/Sex_Pistols_in_Paradiso_-_Johnny_Rotten_%26_Steve_Jones.jpg");
+	margin-bottom:20px;
+  background-size: cover;
+	background-position: 67% 15%;
+	
+}
+
+h1.quote{
+  color:#fff;
+  font-family:Frijole;
+  text-align:right;
+	margin-right: 50px;
+}
+
+h2.name{
+	color:LightCoral;
+	text-align:right;
+	margin-right: 50px;
+}
+
+body{
+	background-color:black;
+}
+
+.biography{
+	font-family:Montserrat;
+	color:LightCoral;
+}
+
+h1.nick{
+	font-family:Frijole;
+	color:white;
+	font-size:60px;
+	margin-bottom:30px;
+}
+
+p{
+	font-size:16px;
+	line-height:135%;
+}
+
+a{
+color:white;
+}
+
+a:hover {
+color: hotpink;
+}
+
+footer{
+	color:white;
+	text-align:center;
+}
